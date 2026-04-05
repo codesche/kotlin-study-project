@@ -4,4 +4,4 @@
 2. 2주차: data class, List/Map, filter, 널 안전성(?, ?:)
 3. 3주차: Coroutine(launch·suspend) · ViewModel 개념 이해
 4. 4주차: Null Safety, sealed class 예외 계층, Result + runCatching
-5. 5주차: OTT 스트리밍 서비스 - 콘텐츠 재생 비즈니스 로직 실습
+5. 5주차: OTT 스트리밍 서비스 - 콘텐츠 재생 비즈니스 로직 실습 
